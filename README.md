@@ -1,34 +1,32 @@
-# Resume Template in LaTeX
+# Building a CV Using Overleaf
 
-This project contains a customizable resume template created using LaTeX. The template allows you to create a clean, professional resume with flexibility in design and structure.
+## Project Overview
+This project demonstrates how to create a professional CV using Overleaf, an online LaTeX editor.
 
-## Table of Contents
+## Author
+**Ziad Hany Mohammed**
 
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
-
-## About
-
-This LaTeX resume template is designed to generate a concise and clear resume for professionals. It includes sections for education, experience, projects, skills, and extracurricular involvement. The design is based on Jake Gutierrez's resume template, with modifications to suit different needs.
+## Contact Information
+- **Position:** Backend Developer
+- **Location:** Tanta, Egypt
+- **Phone:** +20 01554530991
+- **Email:** [ziadhani64@gmail.com](mailto:ziadhani64@gmail.com)
+- **LinkedIn:** [ziad-hani](https://www.linkedin.com/in/ziad-hani/)
+- **GitHub:** [ziadhanii](https://github.com/ziadhanii)
 
 ## Features
+- Easy-to-customize CV template
+- Clean and professional layout
+- Supports various sections such as education, experience, skills, and more
 
-- Clean and professional design
-- Easy customization of sections such as Education, Experience, Projects, and Skills
-- Support for various fonts and formatting styles
-- Column-based coursework section
-- Integration with social media links and icons
-- Simple structure using LaTeX for flexibility in formatting
+## How to Use
+1. Go to [Overleaf](https://www.overleaf.com).
+2. Create a new project using the provided CV template.
+3. Customize the content to reflect your personal information.
+4. Download or share your CV as needed.
 
-## Installation
+## My CV
+- You can download my CV as a PDF [here](link-to-your-cv.pdf).
 
-1. Ensure that you have LaTeX installed on your machine. You can use [TeX Live](https://www.tug.org/texlive/) or [MiKTeX](https://miktex.org/).
-
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/ziadhanii/resume-latex-template.git
-   cd resume-latex-template
+## License
+This project is licensed under the MIT License.
