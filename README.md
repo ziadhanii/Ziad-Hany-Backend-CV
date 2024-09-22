@@ -26,7 +26,7 @@ This project demonstrates how to create a professional CV using Overleaf, an onl
 4. Download or share your CV as needed.
 
 ## My CV
-- You can download my CV as a PDF [here](link-to-your-cv.pdf).
+- You can download my CV as a PDF [here](Ziad_Hany_Backend_CV.pdf).
 
 ## License
 This project is licensed under the MIT License.
